@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savageboitim13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/Savageboitim13/Savageboitim13/blob/output/github-contribution-grid-snake.gif)
+![Snake Gif](https://github.com/Savageboitim13/Savageboitim13/blob/output/github-contribution-grid-snake.gif)
 
 
 
