@@ -1,8 +1,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Savageboitim13&repo=Savageboitim13&theme=tokyonight&show_owner=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Savageboitim13/Savageboitim13/edit/main/README.md))
 
-<a href = "https://github.com/anuraghazra/github-readme-stats">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api?username=Savageboitim13&count_private=true&show_icons=true&theme=tokyonight">
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Savageboitim13&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Savageboitim13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Savageboitim13&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
