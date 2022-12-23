@@ -12,9 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savageboitim13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Savageboitim13&repo=Savageboitim13&theme=tokyonight&show_owner=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Savageboitim13/Savageboitim13/edit/main/README.md))
--->
-
 # Favorite Projects
 <a href = "https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Savageboitim13&repo=Savageboitim13&theme=tokyonight&show_owner=true" />
@@ -24,9 +21,6 @@
 </a>
 
 ![Snake Gif](https://github.com/Savageboitim13/Savageboitim13/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
 
 
