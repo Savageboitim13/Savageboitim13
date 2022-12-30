@@ -6,11 +6,11 @@
 
 ![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Savageboitim13&theme=tokyonight)
 
-[![savageboitim13's GitHub stats](https://github-readme-stats.vercel.app/api?username=savageboitim13&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![savageboitim13's GitHub stats](https://github-readme-stats.vercel.app/api?username=savageboitim13&count_private=true&show_icons=true&theme=tokyonight&border_color=1A1B27)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Savageboitim13&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Savageboitim13&theme=tokyonight&border=1A1B27)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savageboitim13&langs_count=10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savageboitim13&langs_count=10&layout=compact&theme=tokyonight&border_color=1A1B27)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake Gif](https://github.com/Savageboitim13/Savageboitim13/blob/output/github-contribution-grid-snake.svg)
 
