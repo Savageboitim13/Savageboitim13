@@ -4,7 +4,7 @@
 
 # Statistics
 
-![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=craftzdog&theme=tokyonight)
+![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=savageboitim13&theme=tokyonight)
 
 [![savageboitim13's GitHub stats](https://github-readme-stats.vercel.app/api?username=savageboitim13&count_private=true&show_icons=true&theme=tokyonight&border_color=1A1B27)](https://github.com/anuraghazra/github-readme-stats)
 
